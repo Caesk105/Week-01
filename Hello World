@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Kiki's Home page</title>
+        <link href="column.css" rel="stylesheet">
+	
+    </head>
+    <body>
+        <h1><center>HELLO WORLD</center></h1>
+        <div class=div1>
+        <marquee>Welcome to Kiki's PAGE!</marquee>
+    </div>
+    <div2>
+          <marquee-right>Welcome to Kiki's PAGE!</marquee-right>
+    </div2>
+    </body>
+    <div class="img"><center>
+        <a target="_blank" href="1_page"><img src="icon2.png" alt="Klematis" width="200" height="200"></a></center>
+ 
+    </div>
+    
+</html>
